@@ -6,11 +6,13 @@ Circuit breaker is a design pattern to gracefully degrade functionality when a m
 
 Circuit breaker restricts an app to crash because of failed network call and prevents the failure from cascade.
 
-![](.\why.jpg)
+
+
+![](why.jpg)
 
 ## Solution
 
-![](.\circuit_breaker.jpg)
+![](circuit_breaker.jpg)
 
 ## Example
 
